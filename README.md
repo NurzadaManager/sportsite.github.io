@@ -1,1 +1,4 @@
-# sportsite.github.io
+# normal usage
+open site 
+# step 2
+nazslazhdaysya
